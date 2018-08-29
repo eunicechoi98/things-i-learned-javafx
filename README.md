@@ -11,3 +11,7 @@ Tuesday, Aug 21st, 2018
 Solution from https://stackoverflow.com/questions/21299038/root-hasnt-been-set-error-with-java-8-eclipse: uncheck fx:root construct from Scene Builder-> Document -> Controller, or remove from code of fxml file
 
 Woohoo! Learned one thing to start off the morning!
+
+Wednesday, Aug 29th, 2018
+2. Currently, the software uses a bot to automatically move the user's mouse to open an external software. This needs to be changed. So, how do I run another application from Java?
+http://www.avajava.com/tutorials/lessons/how-do-i-run-another-application-from-java.html
